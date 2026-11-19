@@ -1,8 +1,8 @@
-# Halo, saya Rizki 👋
+# Halo, saya oyaji 
 
-Full-stack developer dari Selong, Lombok Timur. Saya membangun sistem informasi
+Full-stack developer Saya membangun sistem informasi
 untuk sekolah, puskesmas, koperasi, dan usaha kecil, dari database sampai tampilan.
-Sekarang saya Kepala IT dan Wakil Kepala Sarana Prasarana di MA NWDI STEM.
+
 
 **Portofolio:** https://oyaji078.github.io/portfolio-pages/
 
